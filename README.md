@@ -1,1 +1,1 @@
-# Boxing-Game
+Patika.dev alıştırması, boks oyunu.
